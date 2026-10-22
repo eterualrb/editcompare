@@ -1,5 +1,7 @@
 # capcut-alternatives — CapCut 替代品决策站
 
+Live site: https://www.editcompare.com — CapCut alternatives compared by free-tier limits and watermarks.
+
 > 状态：**本地站点已实现（T1–T7、T10 代码层）；价格需人工复核；部署/收录/联盟申请待人工**
 > 定位：**内容站**（不是工具站）。靠联盟变现，不靠订阅。
 > 决策依据：[research/volumes.md](research/volumes.md) + [research/serp-2026-10.md](research/serp-2026-10.md)
@@ -18,6 +20,9 @@
 | [TASKS.md](TASKS.md) | 12 条可验收任务，按依赖排序 |
 | [LAUNCH.md](LAUNCH.md) | 上线检查表：域名 → DNS → Vercel → 收录 |
 | [research/PRICE-CHECK.md](research/PRICE-CHECK.md) | 12 个工具的价格核对表 |
+| [research/reddit-targets.md](research/reddit-targets.md) | 近期可评论的 Reddit 帖 + 草稿 |
+| [research/REDDIT-PLAN.md](research/REDDIT-PLAN.md) | **Reddit 10 天发帖排期（照做）** |
+| [research/BACKLINKS.md](research/BACKLINKS.md) | 外链与目录提交记录 |
 | [AGENTS.md](AGENTS.md) | 给 AI 编码助手的约定（内容站规则、事实核查、联盟披露） |
 
 上一层的判断标准见 [../../docs/playbooks/02-立项评估.md](../../docs/playbooks/02-立项评估.md)，
