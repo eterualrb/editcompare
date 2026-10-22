@@ -68,6 +68,26 @@ export default function FreePage() {
         </div>
       </section>
 
+      <section className="mt-12 rounded-2xl border border-amber-200 bg-amber-50/60 p-6">
+        <h2 className="text-lg font-semibold text-slate-900">
+          If CapCut&apos;s free plan already works, the $79 tier is not the upgrade you need
+        </h2>
+        <p className="mt-2 max-w-3xl text-sm leading-6 text-slate-700">
+          CapCut&apos;s US pricing page now lists four plans. Ultra at US$79/mo
+          has the same editor and the same premium templates as Pro at
+          US$19.99/mo; what changes is the monthly AI credit allowance (8,645
+          versus 1,200) and storage. If your projects are ordinary 1080p edits,
+          none of that fixes a watermark or a length cap. Start from the free
+          tier, and only pay when a specific export is blocked.
+        </p>
+        <Link
+          href="/guides/capcut-free-limits"
+          className="mt-3 inline-block text-sm font-semibold text-amber-800 underline underline-offset-2 hover:text-amber-900"
+        >
+          What each CapCut plan actually gives you →
+        </Link>
+      </section>
+
       <section className="mt-12 grid gap-5 lg:grid-cols-2">
         <div className="rounded-2xl border border-slate-200 bg-white p-6">
           <h2 className="text-lg font-semibold text-slate-900">

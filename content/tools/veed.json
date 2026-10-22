@@ -3,11 +3,13 @@
   "name": "VEED",
   "price": "Free; Creator US$147/user/yr; Pro US$265/user/yr; Studio US$465/user/yr (annual billing)",
   "watermark": "Watermarked on free exports; watermark removal starts with Creator",
-  "platforms": ["web"],
+  "platforms": [
+    "web"
+  ],
   "bestFor": "Browser-based subtitles, translations, and simple social edits",
   "notFor": "Free-tier users who cannot accept a watermark",
   "limits": "Free-plan resolution, duration, and storage caps are not published on the pricing page (unconfirmed). Paid plans include unlimited subtitles subject to a 50-hour/month fair-use limit.",
   "affiliate": "",
   "sourceUrl": "https://www.veed.io/pricing",
-  "checkedAt": "2026-10-20"
+  "checkedAt": "2026-10-22"
 }

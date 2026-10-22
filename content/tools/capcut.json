@@ -1,13 +1,19 @@
 {
   "slug": "capcut",
   "name": "CapCut",
-  "price": "Free; Pro US$19.99/mo or US$179.99/yr (US pricing page)",
+  "price": "Free; Pro US$19.99/mo, Ultra US$79/mo, Teams US$12.49/seat/mo (monthly billing, US page)",
   "watermark": "No watermark on standard free 1080p exports; Pro assets add one",
-  "platforms": ["web", "windows", "mac", "ios", "android"],
+  "platforms": [
+    "web",
+    "windows",
+    "mac",
+    "ios",
+    "android"
+  ],
   "bestFor": "Editors who stay on free templates and want CapCut's mobile-first workflow",
   "notFor": "Anyone who needs Pro templates, 4K/60fps, or a guaranteed watermark-free mobile export",
-  "limits": "Free plan: basic editing and free templates. 4K and 60fps are locked on desktop. Pro assets (templates, effects, fonts, music, stickers, AI tools, premium transitions/LUTs) require Pro for a clean export. Mobile free length is around 15 minutes in some regions. Watermark policy: capcut.com/help/join-capcut-pro-for-exporting",
+  "limits": "Free: basic editing and free templates. Pro: 1,200 monthly AI credits, 1TB storage, all premium templates and Pro features. Ultra: 8,645 credits. 4K and 60fps exports, and most Pro assets, require a paid plan. Watermark policy: capcut.com/help/join-capcut-pro-for-exporting",
   "affiliate": "",
   "sourceUrl": "https://www.capcut.com/pricing",
-  "checkedAt": "2026-10-20"
+  "checkedAt": "2026-10-22"
 }

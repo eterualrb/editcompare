@@ -3,11 +3,13 @@
   "name": "InVideo",
   "price": "Free plan; Starter US$10/seat/mo annual (list US$20); Plus US$30/seat/mo annual (list US$60); Max US$75/seat/mo annual (list US$150)",
   "watermark": "Watermarked on free-plan downloads",
-  "platforms": ["web"],
+  "platforms": [
+    "web"
+  ],
   "bestFor": "AI-assisted marketing videos generated from a prompt or script",
   "notFor": "Manual timeline editing or watermark-free free exports",
   "limits": "The help center confirms free-plan downloads carry a watermark (help.invideo.io). Export counts and generation quotas are credit-based and not stated on the pricing page (unconfirmed).",
   "affiliate": "",
   "sourceUrl": "https://invideo.io/pricing/",
-  "checkedAt": "2026-10-20"
+  "checkedAt": "2026-10-22"
 }

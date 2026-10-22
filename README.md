@@ -17,6 +17,7 @@
 | [MVP.md](MVP.md) | 页面清单、词与页的对应、联盟变现、风险 |
 | [TASKS.md](TASKS.md) | 12 条可验收任务，按依赖排序 |
 | [LAUNCH.md](LAUNCH.md) | 上线检查表：域名 → DNS → Vercel → 收录 |
+| [research/PRICE-CHECK.md](research/PRICE-CHECK.md) | 12 个工具的价格核对表 |
 | [AGENTS.md](AGENTS.md) | 给 AI 编码助手的约定（内容站规则、事实核查、联盟披露） |
 
 上一层的判断标准见 [../../docs/playbooks/02-立项评估.md](../../docs/playbooks/02-立项评估.md)，

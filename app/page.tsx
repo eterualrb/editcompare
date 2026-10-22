@@ -4,7 +4,7 @@ import { ComparisonTable } from "@/components/ComparisonTable";
 import { JsonLd } from "@/components/JsonLd";
 import { LastUpdated } from "@/components/LastUpdated";
 import { pageMetadata, SITE_URL } from "@/lib/site";
-import { getAlternatives, getTool } from "@/lib/tools";
+import { getAlternatives } from "@/lib/tools";
 
 export const metadata = pageMetadata({
   title: "CapCut Alternative: 11 Best Alternatives Compared (2026)",
@@ -66,7 +66,6 @@ const GUIDE_LINKS = [
 
 export default function HomePage() {
   const alternatives = getAlternatives();
-  const capcut = getTool("capcut");
 
   const itemList = {
     "@context": "https://schema.org",
@@ -149,18 +148,19 @@ export default function HomePage() {
             Still deciding about CapCut?
           </p>
           <h2 className="mt-2 text-xl font-bold">
-            Free is fine until you touch Pro assets
+            The free plan is fine. The top tier is $79/month.
           </h2>
           <p className="mt-2 text-sm leading-6 text-slate-300">
-            {capcut?.watermark}. Pro costs{" "}
-            {capcut?.price.replace(/^Free; Pro /, "")}. 4K and 60fps stay
-            locked on desktop.
+            CapCut now sells four plans: Free, Pro at US$19.99/mo, Ultra at
+            US$79/mo, and Teams from US$12.49 per seat. Ultra buys AI credits
+            and storage, not a better editor — the same 4K and Pro assets are
+            already unlocked on Pro.
           </p>
           <Link
             href="/guides/capcut-free-limits"
             className="mt-4 inline-block text-sm font-semibold text-emerald-300 hover:text-emerald-200"
           >
-            What is actually free →
+            What each plan actually gives you →
           </Link>
         </div>
       </section>

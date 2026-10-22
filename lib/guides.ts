@@ -97,7 +97,7 @@ export const GUIDES: Guide[] = [
     h1: "What CapCut's free plan actually includes",
     description:
       "CapCut is still free for basic 1080p edits, but Pro assets, 4K, 60fps, and some mobile exports are gated. Here are the limits, with sources.",
-    updated: "2026-10-20",
+    updated: "2026-10-22",
     faqs: [
       {
         question: "Is CapCut still free?",
@@ -118,6 +118,11 @@ export const GUIDES: Guide[] = [
         question: "How much does CapCut Pro cost?",
         answer:
           "On the US pricing page checked October 20, 2026: $19.99 per month or $179.99 per year, including 1,200 monthly AI credits and 1 TB of storage.",
+      },
+      {
+        question: "Is CapCut Ultra worth $79 a month?",
+        answer:
+          "Only if you generate a lot of AI assets. CapCut's US pricing page lists the same editing features and premium templates on Pro and Ultra; the difference is 8,645 monthly AI credits on Ultra versus 1,200 on Pro, both with 1 TB of storage. For ordinary editing, Pro at $19.99 already removes the watermark and unlocks 4K.",
       },
       {
         question: "What is the free mobile length limit?",

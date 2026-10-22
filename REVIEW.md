@@ -220,6 +220,11 @@ GET /nope-xyz            → 404
 
 ---
 
+## 五点五、价格核对（2026-10-22）
+
+11/12 个工具已对照官方截图核对：8 个一致，4 个修正（CapCut 补 Ultra/Teams、OpusClip 补年付、DaVinci 改为 $236、Descript 去掉未核实的月付）。
+详见 [research/PRICE-CHECK.md](research/PRICE-CHECK.md)。Adobe Express 待补。
+
 ## 六、建议的下一步
 
 1. **今天**：设真实域名（P0-1，唯一剩下的阻塞项）
