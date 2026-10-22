@@ -1,0 +1,13 @@
+{
+  "slug": "opencut",
+  "name": "OpenCut",
+  "price": "Free and open source (MIT license)",
+  "watermark": "Unconfirmed: the official site and README do not state export watermarking",
+  "platforms": ["web", "windows", "mac", "ios", "android"],
+  "bestFor": "Privacy-minded editors who want a free, open-source alternative",
+  "notFor": "Anyone who needs a mature editor with documented export limits today",
+  "limits": "Early beta. The README says it is being rewritten; the currently usable build is opencut-classic, and detailed feature/export limits are not documented (unconfirmed). The README describes web, desktop, and mobile targets.",
+  "affiliate": "",
+  "sourceUrl": "https://github.com/opencut-app/opencut",
+  "checkedAt": "2026-10-20"
+}

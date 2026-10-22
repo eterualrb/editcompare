@@ -1,0 +1,13 @@
+{
+  "slug": "canva",
+  "name": "Canva",
+  "price": "Free; Pro US$144/yr (about US$12/mo, annual billing); Business US$250/yr per person",
+  "watermark": "No watermark on standard free exports; premium assets require Pro",
+  "platforms": ["web", "windows", "mac", "ios", "android"],
+  "bestFor": "Template-led social videos and graphics, especially on iPhone",
+  "notFor": "Frame-accurate multi-track editing or long-form video projects",
+  "limits": "Free: 5GB cloud storage, 4.7M+ free assets, 1.6M+ templates, and 1 brand kit with 3 colors. Premium templates and stock media require Pro.",
+  "affiliate": "",
+  "sourceUrl": "https://www.canva.com/pricing/",
+  "checkedAt": "2026-10-20"
+}

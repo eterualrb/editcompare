@@ -1,0 +1,13 @@
+{
+  "slug": "clipchamp",
+  "name": "Clipchamp",
+  "price": "Free; premium features are included with Microsoft 365 Personal or Family",
+  "watermark": "No watermark on free exports",
+  "platforms": ["web", "windows"],
+  "bestFor": "Windows and browser users who want free 1080p exports without a watermark",
+  "notFor": "iPhone-only editors or anyone who needs 4K on the free tier",
+  "limits": "Free: 1080p exports, unlimited export count, free stock assets, filters and effects. 4K, premium stock, and brand kits require Microsoft 365.",
+  "affiliate": "",
+  "sourceUrl": "https://clipchamp.com/en/pricing/",
+  "checkedAt": "2026-10-20"
+}

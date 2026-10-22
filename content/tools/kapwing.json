@@ -1,0 +1,13 @@
+{
+  "slug": "kapwing",
+  "name": "Kapwing",
+  "price": "Free; Pro US$16/mo; Business US$50/mo (monthly billing)",
+  "watermark": "Watermarked on free exports",
+  "platforms": ["web"],
+  "bestFor": "Caption-first social clips and browser-based team edits",
+  "notFor": "Anyone who needs free exports without a watermark",
+  "limits": "Free: exports up to 4 minutes at 720p, 30 export minutes per month, watermark on every export, 5GB storage, and files kept for 3 days.",
+  "affiliate": "",
+  "sourceUrl": "https://www.kapwing.com/pricing",
+  "checkedAt": "2026-10-20"
+}

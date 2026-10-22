@@ -1,0 +1,13 @@
+{
+  "slug": "descript",
+  "name": "Descript",
+  "price": "Free; Hobbyist US$16/mo annual or US$24/mo monthly; Creator US$24/mo annual or US$35/mo monthly",
+  "watermark": "Watermarked on free exports",
+  "platforms": ["windows", "mac", "web"],
+  "bestFor": "Talking-head video and podcasts edited like a document",
+  "notFor": "Fast template-driven TikTok edits or free watermark-free exports",
+  "limits": "Free: 60 transcription minutes per month, 720p video export, 1-hour web-link export, 5GB storage, and a watermark on exports.",
+  "affiliate": "",
+  "sourceUrl": "https://www.descript.com/pricing",
+  "checkedAt": "2026-10-20"
+}

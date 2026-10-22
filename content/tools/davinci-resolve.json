@@ -1,0 +1,13 @@
+{
+  "slug": "davinci-resolve",
+  "name": "DaVinci Resolve",
+  "price": "Free; Studio US$295 one-time (listed at US$236 during the checked promotion)",
+  "watermark": "No watermark",
+  "platforms": ["windows", "mac", "linux"],
+  "bestFor": "Desktop editors who want professional color, audio, and VFX tools for free",
+  "notFor": "Phone-first creators or anyone who wants a five-minute learning curve",
+  "limits": "Free version supports 8-bit video up to 60fps and resolutions up to 4K. 10-bit video, 120fps, the Neural Engine, and some ResolveFX require Studio.",
+  "affiliate": "",
+  "sourceUrl": "https://www.blackmagicdesign.com/products/davinciresolve/",
+  "checkedAt": "2026-10-20"
+}

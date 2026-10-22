@@ -1,0 +1,13 @@
+{
+  "slug": "opus-clip",
+  "name": "OpusClip",
+  "price": "Free; Starter US$15/mo; Pro US$29/mo; Business custom",
+  "watermark": "Watermarked on free exports; watermark-free export requires Starter or above",
+  "platforms": ["web"],
+  "bestFor": "Turning long videos or podcasts into short vertical clips with captions, without manual editing",
+  "notFor": "Frame-accurate manual editing, offline work, or projects that are not clip-based",
+  "limits": "Free: regular processing speed, local uploads up to 10GB per video, and animated captions carry a watermark. Watermark-free export and export to Premiere/DaVinci are paid. The monthly processing allowance is not stated on the public pricing page.",
+  "affiliate": "",
+  "sourceUrl": "https://www.opus.pro/pricing",
+  "checkedAt": "2026-10-22"
+}

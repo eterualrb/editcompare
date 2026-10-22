@@ -1,0 +1,13 @@
+{
+  "slug": "adobe-express",
+  "name": "Adobe Express",
+  "price": "Free; Premium US$9.99/mo (monthly billing)",
+  "watermark": "Unconfirmed: the official pricing page does not state watermark behavior for free exports",
+  "platforms": ["web", "ios", "android"],
+  "bestFor": "Quick branded social posts and simple videos using Adobe assets",
+  "notFor": "Multi-track editing or projects that need every premium template for free",
+  "limits": "Free: videos up to 30 minutes, 5GB storage, 100,000+ templates, 1M+ royalty-free assets, and 4,000+ fonts. 4K export, brand kits, and background removal require Premium.",
+  "affiliate": "",
+  "sourceUrl": "https://www.adobe.com/express/pricing",
+  "checkedAt": "2026-10-20"
+}
