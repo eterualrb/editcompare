@@ -17,6 +17,7 @@ const STATIC_ROUTES = [
   "/disclosure",
   "/about",
   "/privacy",
+  "/capcut-ultra-worth-it",
 ];
 
 export default function sitemap(): MetadataRoute.Sitemap {

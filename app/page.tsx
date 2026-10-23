@@ -156,12 +156,20 @@ export default function HomePage() {
             and storage, not a better editor — the same 4K and Pro assets are
             already unlocked on Pro.
           </p>
-          <Link
-            href="/guides/capcut-free-limits"
-            className="mt-4 inline-block text-sm font-semibold text-emerald-300 hover:text-emerald-200"
-          >
-            What each plan actually gives you →
-          </Link>
+          <div className="mt-4 flex flex-wrap items-center gap-x-4 gap-y-2">
+            <Link
+              href="/capcut-ultra-worth-it"
+              className="text-sm font-semibold text-emerald-300 hover:text-emerald-200"
+            >
+              Is Ultra worth $79/mo? →
+            </Link>
+            <Link
+              href="/guides/capcut-free-limits"
+              className="text-sm font-medium text-slate-300 hover:text-slate-200"
+            >
+              What each plan gives you
+            </Link>
+          </div>
         </div>
       </section>
 

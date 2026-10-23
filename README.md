@@ -9,7 +9,7 @@
 | 项 | 状态 |
 |---|---|
 | 站点 | ✅ 已上线，canonical / HTTPS / sitemap 正常 |
-| 页面 | 15 页（含 About / Privacy） |
+| 页面 | 16 页（含 About / Privacy / CapCut Ultra） |
 | 价格核对 | 11/12 完成，Adobe Express 待补 |
 | 收录 | GSC / Bing 已提交，等待首批索引 |
 | 联盟 | 未申请（先注册 Payoneer，再申 Kapwing / VEED） |
