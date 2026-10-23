@@ -18,9 +18,10 @@
 
 ## 下一步
 
-1. 验证「CapCut 工程迁移」服务是否有付费需求
-2. 注册 Payoneer → 申请 Kapwing 联盟
-3. 补 Adobe Express 价格
+1. ~~验证迁移服务~~ → 已否掉，见 [research/SERVICE-CHECK.md](research/SERVICE-CHECK.md)
+2. 验证「短视频剪辑服务」需求（下一个候选）
+3. 注册 Payoneer → 申请 Kapwing 联盟
+4. 补 Adobe Express 价格
 
 ## 文档
 
