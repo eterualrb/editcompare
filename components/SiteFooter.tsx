@@ -17,6 +17,8 @@ const GUIDE_LINKS = [
   { href: "/guides/capcut-free-limits", label: "CapCut free limits" },
   { href: "/opencut", label: "OpenCut review" },
   { href: "/disclosure", label: "Disclosure" },
+  { href: "/about", label: "About" },
+  { href: "/privacy", label: "Privacy" },
 ];
 
 export function SiteFooter() {

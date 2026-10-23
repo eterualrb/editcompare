@@ -8,6 +8,8 @@
 |---|---|---|---|---|---|
 | **SaaSHub** | 软件目录 | 2026-10-22 | 🟡 待审核 | 待生成 | 接受内容站；需填 3+ 竞品；通常 1–3 天 |
 | **AlternativeTo** | 软件目录 | 2026-10-22 | 🟡 待审核 | 待生成 | 名称检查曾报错（已重填）；可能因"不是 app"被拒 |
+| **GitHub README** | 自有仓库 | 2026-10-22 | ✅ 已上线 | https://github.com/eterualrb/editcompare | **nofollow**，作用是让爬虫发现，不传权重 |
+| **X 简介** | 社交资料 | 2026-10-22 | ✅ 已放 | 待确认 | 通常 nofollow，但 Google 会抓资料页 |
 
 **提交后不要重复提交**，重复会被判垃圾。
 
@@ -15,8 +17,6 @@
 
 | 渠道 | 耗时 | 说明 |
 |---|---|---|
-| **GitHub README** | 5 分钟 | 仓库 `eterualrb/editcompare` 顶部加一行站点链接 |
-| **X / Twitter 简介** | 5 分钟 | 资料页放链接；Google 会看 |
 | **Quora** | 20 分钟 | 回答 "best CapCut alternative"，审核比 Reddit 松 |
 | **Indie Hackers 产品页** | 15 分钟 | 接受内容站，社区流量 |
 | **BetaList** | 15 分钟 | 需要审核，适合早期项目 |

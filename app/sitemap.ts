@@ -15,6 +15,8 @@ const STATIC_ROUTES = [
   "/opencut",
   "/guides",
   "/disclosure",
+  "/about",
+  "/privacy",
 ];
 
 export default function sitemap(): MetadataRoute.Sitemap {
