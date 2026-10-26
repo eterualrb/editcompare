@@ -93,11 +93,11 @@ export const GUIDES: Guide[] = [
   },
   {
     slug: "capcut-free-limits",
-    seoTitle: "CapCut Free Plan Limits: What You Get in 2026",
+    seoTitle: "CapCut Free Plan Limits: Export Length, 4K, Watermark",
     h1: "What CapCut's free plan actually includes",
     description:
-      "CapCut is still free for basic 1080p edits, but Pro assets, 4K, 60fps, and some mobile exports are gated. Here are the limits, with sources.",
-    updated: "2026-10-22",
+      "How long a free CapCut export can be, what resolution you get, and when a watermark appears — the free plan limits, with sources and dates.",
+    updated: "2026-10-26",
     faqs: [
       {
         question: "Is CapCut still free?",

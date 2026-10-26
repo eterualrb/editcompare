@@ -197,6 +197,7 @@ export default function CapcutUltraPage() {
 
       <RelatedLinks
         links={[
+          { href: "/capcut-ultra-vs-pro", label: "Ultra vs Pro side by side" },
           { href: "/guides/capcut-free-limits", label: "What CapCut's plans include" },
           { href: "/no-watermark", label: "Editors with no watermark" },
           { href: "/free", label: "Free CapCut alternatives" },
